@@ -1,6 +1,6 @@
 ## <p align=center> Simple CRUD using Firebase</p>
 
-A CRUD (create, read, update, delete) application using Flutter and Firebase is a mobile app that allows users to create, read, update, and delete data stored in a Firebase database. Flutter is a mobile development framework used to build high-performance, visually attractive apps for Android and iOS. Firebase is a cloud-based platform that provides a suite of tools and services for developing mobile and web applications. With Flutter and Firebase, developers can quickly and easily create a robust CRUD app that can store and manipulate data in real-time.
+<p align=center> A CRUD (create, read, update, delete) application using Flutter and Firebase is a mobile app that allows users to create, read, update, and delete data stored in a Firebase database. Flutter is a mobile development framework used to build high-performance, visually attractive apps for Android and iOS. Firebase is a cloud-based platform that provides a suite of tools and services for developing mobile and web applications. With Flutter and Firebase, developers can quickly and easily create a robust CRUD app that can store and manipulate data in real-time.</p>
 
 
 ![image](https://user-images.githubusercontent.com/86775678/209343132-069337ef-6f4c-4378-969f-639d1492bc15.png)
